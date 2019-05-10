@@ -1,3 +1,3 @@
 # MTSU's disaster recovery landing page
 
-In the unlikely event that our entire server network (both on- and off-premises) is unavailable, this repository will be used to relay information to the public.  This is a state requirement.
+In the unlikely event that our entire server network (both on- and off-premises) is unavailable, this repository will be used to relay information to the public.  This is a state requirement - we are simply leveraging GitHub.io to make it available.
